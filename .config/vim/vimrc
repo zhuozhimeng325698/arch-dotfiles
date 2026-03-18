@@ -1,0 +1,17 @@
+" author zzm
+" date 2026-02-03
+
+set viminfofile=~/.config/vim/viminfo
+
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
+set autoindent
+set smartindent
+
+set number
+set relativenumber
+
+set cursorline
+syntax on
